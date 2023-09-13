@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XasanovB
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning html css
+- 🌱 I’m currently learning html css and python 
 - 📫 How to reach me 
 
 <!---
